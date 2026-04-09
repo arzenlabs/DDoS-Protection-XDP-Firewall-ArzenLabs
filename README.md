@@ -80,7 +80,7 @@ Keeping Java, Bedrock, and API/query separated is strongly recommended.
 ### 1) Clone the repo
 
 ```bash
-git clone https://github.com/arzenlabs/xdp-port-range-deploy.git
+git clone https://github.com/arzenlabs/DDoS-Protection-XDP-Firewall-ArzenLabs
 cd xdp-port-range-deploy
 ```
 
@@ -245,7 +245,7 @@ git init
 git add .
 git commit -m "Initial XDP port-range deployment repo"
 git branch -M main
-git remote add origin https://github.com/arzenlabs/xdp-port-range-deploy.git
+git remote add origin https://github.com/arzenlabs/DDoS-Protection-XDP-Firewall-ArzenLabs
 git push -u origin main
 ```
 
