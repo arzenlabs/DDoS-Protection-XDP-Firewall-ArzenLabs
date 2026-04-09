@@ -245,7 +245,7 @@ git init
 git add .
 git commit -m "Initial XDP port-range deployment repo"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/xdp-port-range-deploy.git
+git remote add origin https://github.com/arzenlabs/xdp-port-range-deploy.git
 git push -u origin main
 ```
 
